@@ -1,4 +1,4 @@
-# quest-conflicts
+REMOTE
 i need to make some changes
 oops
 i've mistaken again 
